@@ -73,12 +73,6 @@ knapsack-performance-analysis/
 
 ---
 
-##  Görsel Örnek
-
-![Knapsack Performans Grafiği](/knapsack_performance.png)
-
----
-
 ## Rapor
 
 Detaylı açıklamalar ve analizler için:  
