@@ -10,25 +10,27 @@ Zeynep Gülten
 
 ##  Proje Yapısı
 
+```bash
 knapsack-performance-analysis/
 │
-├── data/ # Test edilen problem dosyaları
-│ ├── ks_40_0
-│ ├── ks_300_0
-│ ├── ks_1000_0
-│ └── ks_10000_0
+├── data/                   # Test edilen problem dosyaları
+│   ├── ks_40_0
+│   ├── ks_300_0
+│   ├── ks_1000_0
+│   └── ks_10000_0
 │
-├── results/ # Görseller ve test çıktıları
-│ ├── knapsack_performance.png
-│ └── knapsack_sonuclar.csv
+├── results/                # Görseller ve test çıktıları
+│   ├── knapsack_performance.png
+│   └── knapsack_sonuclar.csv
 │
-├── report/ # PDF formatında rapor
-│ └── RAPOR3.pdf
+├── report/                 # PDF formatında rapor
+│   └── RAPOR3.pdf
 │
-├── notebook/ # Python Jupyter Notebook
-│ └── Untitled5.ipynb
+├── notebook/               # Python Jupyter Notebook
+│   └── Untitled5.ipynb
 │
-└── README.md # Bu dosya
+└── README.md               # Bu dosya
+
 
 
 ## Amaç
