@@ -75,7 +75,7 @@ knapsack-performance-analysis/
 
 ##  Görsel Örnek
 
-![Knapsack Performans Grafiği](results/knapsack_performance.png)
+![Knapsack Performans Grafiği](/knapsack_performance.png)
 
 ---
 
